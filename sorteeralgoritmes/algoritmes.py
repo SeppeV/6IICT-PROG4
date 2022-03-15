@@ -26,12 +26,3 @@ def insertion_sort(lijst):
 def bozo_sort(lijst):
     # Gebruik als yield -2. Alle blokken worden tegelijk gewisseld. Een actief blok aanduiden is dus niet mogelijk
     pass
-
-
-
-
-
-
-        
-        
-
